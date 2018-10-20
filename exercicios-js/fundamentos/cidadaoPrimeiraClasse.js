@@ -26,3 +26,4 @@ function run(fun)
 }
 
 run(function(){console.log("olaroloar")})
+console.log("tete")
